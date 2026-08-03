@@ -1,0 +1,33 @@
+PROPOSED SITE PLAN — 88 Harris Street, Pyrmont, Sydney NSW 2009
+=================================================================
+
+Zoning: R-2 (Medium-Density Residential)
+Proposed Use: 6-unit townhouse development
+
+Lot dimensions:
+  - Lot area: 5,800 sq ft
+  - Frontage: 58 ft
+  - Depth: 96 ft
+
+Proposed structure:
+  - Height: 30 ft
+  - Stories: 2
+  - Floor area ratio (FAR): 1.35
+  - Front yard setback: 10 ft
+  - Side yard setback: 5 ft (each side)
+  - Rear yard setback: 20 ft
+
+Parking:
+  - 7 spaces provided (3 surface + 4 basement)
+
+Site coordinates (approx):
+  - Latitude: -33.8697
+  - Longitude: 151.1947
+
+Notes:
+  - Within 400m of the Sydney Light Rail (Pyrmont Bay stop).
+  - Site is OUTSIDE the 1-in-100-year flood extent per NSW SES flood mapping.
+  - Heritage-listed warehouse facade on adjoining lot — no impact expected.
+
+Submitted by: Harbourline Developments Pty Ltd
+Date: 2026-07-02

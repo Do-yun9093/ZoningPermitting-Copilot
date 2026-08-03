@@ -1,0 +1,20 @@
+{
+  "name": "zoning-copilot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Zoning & Permitting Copilot — React + Express + Groq prototype.",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "concurrently -k -n server,client -c yellow,magenta \"npm run dev -w server\" \"npm run dev -w client\"",
+    "dev:server": "npm run dev -w server",
+    "dev:client": "npm run dev -w client",
+    "build": "npm run build -w client",
+    "postinstall": "node -e \"const fs=require('fs');const p='server/.env';if(!fs.existsSync(p)){fs.copyFileSync('server/.env.example',p);console.log('\\n  → created server/.env from .env.example — paste your GROQ_API_KEY in there.\\n');}\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

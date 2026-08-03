@@ -1,0 +1,39 @@
+PROPOSED SITE PLAN — 19 Ainslie Avenue, Braddon, Canberra ACT 2612
+=====================================================================
+
+Zoning: R-2 (Medium-Density Residential)
+Proposed Use: 8-unit apartment building
+
+Lot dimensions:
+  - Lot area: 7,100 sq ft
+  - Frontage: 65 ft
+  - Depth: 109 ft
+
+Proposed structure:
+  - Height: 40 ft
+  - Stories: 4
+  - Floor area ratio (FAR): 1.8
+  - Front yard setback: 8 ft
+  - Side yard setback: 4 ft (each side)
+  - Rear yard setback: 12 ft
+
+Parking:
+  - 5 spaces provided (tandem, basement level)
+
+Site coordinates (approx):
+  - Latitude: -35.2777
+  - Longitude: 149.1367
+
+Notes:
+  - This design intentionally pushes past the R-2 code limits so the
+    Compliance Gap tab has real FAIL rows to display, not just PASS:
+      * FAR 1.8 vs. the R-2 cap of 1.2 → over limit
+      * Height 40 ft vs. the R-2 cap of 35 ft → over limit
+      * Front setback 8 ft vs. the R-2 minimum of 15 ft → under minimum
+    Parking will still show "unclear" — the prototype doesn't attempt
+    to infer a required parking ratio from unit count.
+  - Within 600m of the Canberra light rail (Antill St stop).
+  - Site is OUTSIDE the ACT flood-prone-area mapping.
+
+Submitted by: Ainslie Collective Developments
+Date: 2026-06-30

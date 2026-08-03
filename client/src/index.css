@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body, #root {
+    height: 100%;
+  }
+  body {
+    @apply bg-cream text-stone-800 antialiased;
+  }
+  ::selection {
+    @apply bg-marigold/60 text-stone-900;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2 text-sm font-medium transition shadow-soft;
+  }
+  .btn-primary {
+    @apply btn bg-pumpkin text-white hover:bg-ember;
+  }
+  .btn-secondary {
+    @apply btn bg-white text-stone-800 border border-butter hover:bg-butter;
+  }
+  .btn-ghost {
+    @apply btn text-stone-700 hover:bg-butter/60;
+  }
+  .card {
+    @apply rounded-2xl bg-white border border-butter shadow-soft;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full bg-butter px-2.5 py-0.5 text-xs font-medium text-stone-700;
+  }
+  .input {
+    @apply w-full rounded-lg border border-butter bg-white px-3 py-2 text-sm placeholder-stone-400
+           focus:outline-none focus:ring-2 focus:ring-marigold focus:border-marigold;
+  }
+  .label {
+    @apply text-xs font-semibold uppercase tracking-wide text-stone-500;
+  }
+  .section-title {
+    @apply text-lg font-semibold text-stone-900;
+  }
+  .muted {
+    @apply text-sm text-stone-500;
+  }
+  .pass {
+    @apply text-emerald-700 bg-emerald-50 border-emerald-200;
+  }
+  .fail {
+    @apply text-rose-700 bg-rose-50 border-rose-200;
+  }
+  .unclear {
+    @apply text-amber-800 bg-butter border-marigold;
+  }
+}

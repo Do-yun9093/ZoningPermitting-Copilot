@@ -1,0 +1,34 @@
+PROPOSED SITE PLAN — 1247 Maple Avenue
+========================================
+
+Zoning: R-2 (Medium-Density Residential)
+Proposed Use: 4-unit townhouse development
+
+Lot dimensions:
+  - Lot area: 6,200 sq ft
+  - Frontage: 62 ft
+  - Depth: 100 ft
+
+Proposed structure:
+  - Height: 32 ft
+  - Stories: 2
+  - Floor area ratio (FAR): 1.45
+  - Front yard setback: 12 ft
+  - Side yard setback: 6 ft (each side)
+  - Rear yard setback: 22 ft
+
+Parking:
+  - 6 parking spaces (2 surface + 4 in tuck-under garage)
+
+Site coordinates (approx):
+  - Latitude: 37.7749
+  - Longitude: -122.4194
+
+Notes:
+  - Within 1/4 mile of Maple St. transit stop (10-min headways).
+  - Site is OUTSIDE the 100-year floodplain per FEMA map panel 0617J.
+  - Tree #14 (valley oak) on the parcel — protected species; removal
+    permit required if removed.
+
+Submitted by: Northpoint Development LLC
+Date: 2026-07-14

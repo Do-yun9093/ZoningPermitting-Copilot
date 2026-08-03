@@ -1,0 +1,36 @@
+PROPOSED SITE PLAN — 214 Chapel Street, Prahran, Melbourne VIC 3181
+=====================================================================
+
+Zoning: C-1 (Mixed-Use Commercial)
+Proposed Use: Ground-floor retail + 12 residential units above
+
+Lot dimensions:
+  - Lot area: 9,400 sq ft
+  - Frontage: 74 ft
+  - Depth: 127 ft
+
+Proposed structure:
+  - Height: 48 ft
+  - Stories: 4
+  - Floor area ratio (FAR): 2.1
+  - Front yard setback: 0 ft (built to boundary, mixed-use strip)
+  - Side yard setback: 4 ft (each side)
+  - Rear yard setback: 15 ft
+
+Parking:
+  - 14 spaces provided (basement, mechanical stacker system)
+
+Site coordinates (approx):
+  - Latitude: -37.8496
+  - Longitude: 144.9938
+
+Notes:
+  - Within 250m of Chapel St tram (Route 78, 6-min headways).
+  - CAUTION: Site sits within the Yarra River 1-in-100-year floodplain
+    overlay — a floodplain development permit will be required before
+    a building permit can be issued.
+  - Adjacent to a designated heritage overlay (HO7); facade retention
+    conditions likely apply.
+
+Submitted by: Southbank Urban Collective
+Date: 2026-06-18

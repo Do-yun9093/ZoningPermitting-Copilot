@@ -1,0 +1,39 @@
+{
+  "title": "Snowflake demo case: retail demand forecasting",
+  "summary": "A national retailer unifies sales, inventory, and weather signals inside Snowflake to power a daily demand forecast that planners can trust.",
+  "serviceName": "Demand Forecasting Analytics Service",
+  "serviceDescription": "A Snowflake-powered service that turns store sales, inventory, and weather data into a trusted daily demand view for planning teams.",
+  "serviceValue": "Planners can react faster to demand shifts, reduce stockouts, and make better inventory decisions without manual spreadsheet work.",
+  "serviceHighlights": [
+    "Unified data access across retail operations",
+    "SQL-first forecasting for business teams",
+    "Faster planning and lower operational risk"
+  ],
+  "useCase": "Cloud analytics and operational forecasting",
+  "scenario": "The team wants a single, governed view of point-of-sale transactions, replenishment data, and weather risk so they can predict weekly demand by region and adjust inventory faster.",
+  "sourceSystems": [
+    "POS transactions from stores",
+    "Inventory replenishment feeds",
+    "Weather and regional event data",
+    "Finance and promotion calendars"
+  ],
+  "workflow": [
+    "Ingest the source feeds into Snowflake using staged tables and secure data sharing.",
+    "Model the data into curated views for forecasting, promotions, and stock availability.",
+    "Query the curated views from SQL-based dashboards and alerting workflows.",
+    "Publish a simple forecast summary for planners and operations teams."
+  ],
+  "sampleSql": "SELECT region, SUM(units_sold) AS units_sold\nFROM retail_forecast_view\nWHERE forecast_date = CURRENT_DATE\nGROUP BY region\nORDER BY units_sold DESC;",
+  "cocoCli": "coco snowflake demo --case retail-demand --environment dev",
+  "cocoCliOverview": "cocoCLI is a lightweight command-line companion for Snowflake-style workflows. It helps a team stage a demo case, validate the environment, and run a simple data workflow from the terminal without losing the narrative of the business use case.",
+  "whySnowflake": [
+    "Elastic compute that scales with data volume and demand",
+    "SQL-first analytics that keep data teams productive",
+    "Secure sharing and governance for cross-functional collaboration"
+  ],
+  "benefits": [
+    "Faster decisions with a single source of truth",
+    "Less manual reporting and fewer spreadsheet handoffs",
+    "A clearer path from raw data to operational action"
+  ]
+}
